@@ -37,6 +37,6 @@ foreach ($requiredService in $requiredServices) {
 }
  
 
-<# for ts Run all services #>
+<# for test jagan Run all services #>
 
 tye run --watch
